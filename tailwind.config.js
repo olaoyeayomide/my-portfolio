@@ -2,20 +2,19 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "C:/Users/ayomi/Desktop/Project/portfolio/olaoyeayomide-portfolio/my-portfolio/src/components/layout/Navigation.jsx",
-    "C:/Users/ayomi/Desktop/Project/portfolio/olaoyeayomide-portfolio/my-portfolio/src/components/layout/Sidebar.jsx",
-    "C:/Users/ayomi/Desktop/Project/portfolio/olaoyeayomide-portfolio/my-portfolio/src/components/layout/SpeedDialThemeToggle.jsx",
+    "./src/components/layout/Navigation.jsx",
+    "./src/components/layout/Sidebar.jsx",
+    "./src/components/layout/SpeedDialThemeToggle.jsx",
 
-    "C:/Users/ayomi/Desktop/Project/portfolio/olaoyeayomide-portfolio/my-portfolio/src/components/tabs/About.jsx",
-    "C:/Users/ayomi/Desktop/Project/portfolio/olaoyeayomide-portfolio/my-portfolio/src/components/tabs/Blog.jsx",
-    "C:/Users/ayomi/Desktop/Project/portfolio/olaoyeayomide-portfolio/my-portfolio/src/components/tabs/GithubHeatmap.jsx",
-    // "C:/Users/ayomi/Desktop/Project/portfolio/olaoyeayomide-portfolio/my-portfolio/src/components/tabs/PinnedRepos.jsx",
-    "C:/Users/ayomi/Desktop/Project/portfolio/olaoyeayomide-portfolio/my-portfolio/src/components/tabs/Skills.jsx",
-    "C:/Users/ayomi/Desktop/Project/portfolio/olaoyeayomide-portfolio/my-portfolio/src/components/tabs/Work.jsx",
+    "./src/components/tabs/About.jsx",
+    "./src/components/tabs/Blog.jsx",
+    "./src/components/tabs/GithubHeatmap.jsx",
+    "./src/components/tabs/Skills.jsx",
+    "./src/components/tabs/Work.jsx",
 
-    "C:/Users/ayomi/Desktop/Project/portfolio/olaoyeayomide-portfolio/my-portfolio/src/pages/Portfolio.jsx",
+    "./src/pages/Portfolio.jsx",
 
-    "C:/Users/ayomi/Desktop/Project/portfolio/olaoyeayomide-portfolio/my-portfolio/src/App.js",
+    "./src/App.js",
     "./public/index.html",
   ],
   darkMode: "class",
