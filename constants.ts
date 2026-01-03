@@ -85,7 +85,7 @@ export const PROJECTS: Project[] = [
     id: 4,
     name: "E-commerce Platform",
     description:
-      "Built a full-stack e-commerce platform using React, Node.js, and MongoDB with real-time inventory management.",
+      "A consumer electronics e-commerce site showcasing audio devices, smartwatches, power banks, and featured products.",
     language: "Python",
     languageColor: "#3572A5",
     stars: 45,
@@ -95,8 +95,7 @@ export const PROJECTS: Project[] = [
     topics: ["Python", "FastAPI", "Postgres", "React"],
     url: "https://github.com/olaoyeayomide/ecommerce",
     demoUrl: "https://ecommerce-demo.com",
-    imageUrl:
-      "https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=1000&auto=format&fit=crop",
+    imageUrl: "https://i.ibb.co/nq6VcFbt/Screenshot-2026-01-03-011950-1.png",
   },
   {
     id: 5,
