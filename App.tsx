@@ -88,19 +88,19 @@ const App: React.FC = () => {
 
                 <div className="flex flex-wrap gap-3 mb-8">
                   <a
-                    href="#"
+                    href="https://github.com/olaoyeayomide"
                     className="flex items-center gap-2 bg-[#24292e] text-white px-4 py-1.5 rounded-md text-sm font-semibold border border-github-border hover:bg-[#2f363d] transition-colors"
                   >
                     <Github size={16} /> GITHUB
                   </a>
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/in/olaoye-ayomide"
                     className="flex items-center gap-2 bg-[#0077b5] text-white px-4 py-1.5 rounded-md text-sm font-semibold border border-transparent hover:bg-[#006097] transition-colors"
                   >
                     <LinkIcon size={16} /> LINKEDIN
                   </a>
                   <a
-                    href="#"
+                    href="https://x.com/RockxyOmahpasta"
                     className="flex items-center gap-2 bg-black text-white px-4 py-1.5 rounded-md text-sm font-semibold border border-github-border hover:bg-gray-900 transition-colors"
                   >
                     <Twitter size={16} /> X
@@ -113,18 +113,21 @@ const App: React.FC = () => {
                     <strong className="text-github-accent">
                       {MY_PROFILE.name}
                     </strong>
-                    , a passionate software engineer and freelancer. I
-                    specialize in{" "}
-                    <strong className="text-[#61dafb]">React</strong> and{" "}
-                    <strong className="text-[#3572A5]">Python</strong>, building
-                    scalable web applications and seamless user experiences for
-                    clients worldwide.
+                    , a passionate software engineer and freelancer focused on
+                    helping businesses grow through smart, effective web
+                    solutions. I specialize in{" "}
+                    <strong className="text-[#61dafb]">identifying</strong> and{" "}
+                    <strong className="text-[#3572A5]">
+                      fixing website problems that limit growth
+                    </strong>
+                    , turning underperforming online presences into tools that
+                    actually support business goals.
                   </p>
                   <p className="text-base leading-relaxed mb-6">
-                    I thrive on continuous learning and pushing the boundaries
-                    of technology. Whether it's a SaaS product or a custom
-                    business solution, I deliver clean, efficient, and
-                    well-documented code.
+                    My work centers on partnering with businesses to uncover
+                    challenges, refine their digital strategy, and transform
+                    problems into opportunities that drive sustainable growth
+                    through clear, practical, and results-driven solutions.
                   </p>
 
                   <div className="mt-8">
@@ -233,6 +236,7 @@ const App: React.FC = () => {
                     "React",
                     "TypeScript",
                     "Tailwind CSS",
+                    "Bootstrap",
                     "Next.js",
                     "Redux",
                     "HTML5/CSS3",
@@ -252,14 +256,16 @@ const App: React.FC = () => {
                 </h3>
                 <div className="flex flex-wrap gap-2">
                   {[
-                    "Node.js",
+                    "JavaScript",
+                    "PHP",
                     "Python",
                     "FastAPI",
                     "Django",
                     "PostgreSQL",
                     "MongoDB",
                     "Redis",
-                    "Go",
+                    "GraphQL",
+                    "Docker",
                   ].map((s) => (
                     <span
                       key={s}

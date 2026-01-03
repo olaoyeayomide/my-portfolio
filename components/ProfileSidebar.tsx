@@ -40,7 +40,7 @@ const ProfileSidebar: React.FC<ProfileSidebarProps> = ({ profile }) => {
         className="w-full inline-flex items-center justify-center bg-github-btn border border-github-border text-github-text py-1.5 px-4 rounded-md font-medium text-sm hover:bg-github-btnHover transition-colors"
         onClick={() => {
           window.open(
-            "https://www.canva.com/design/DAGRU9qLaqw/DGBMfyqyYBPDwMupdUTCFw/view?embed",
+            "https://www.canva.com/design/DAG2XrS9e1I/qinD4s2J3n_kNaJJN55FSw/edit?utm_content=DAG2XrS9e1I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
             "_blank"
           );
         }}
