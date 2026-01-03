@@ -456,7 +456,7 @@ const App: React.FC = () => {
         <div className="flex flex-col md:flex-row items-center gap-4 text-xs text-github-muted">
           <div className="flex items-center gap-2">
             <div className="font-bold text-github-text text-lg">Olaoye.</div>
-            <span>© {new Date().getFullYear()} All rights reserved.</span>
+            <span>© 2025 All rights reserved.</span>
           </div>
           <div className="flex flex-wrap gap-6 md:ml-auto">
             <a
